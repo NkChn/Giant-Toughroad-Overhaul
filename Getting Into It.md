@@ -1,4 +1,4 @@
 People build bikes for many reasons, from wanting a high-performance racing machine to enjoying a wrench project. My project was somewhere in between. As an incoming transfer student, I chose a bike as my main mode of transportation because it was what I was most accustomed to at my previous school. Knowing that there are incredibly steep hills and major stop-and-go traffic affected my decisions greatly. 
 I needed a bike that would be comfortable to use with a 15 lb backpack, highly capable of climbing hills, and proficient in braking power. During this project, I asked loads and loads of people (and the internet) for advice. 
 
-The first person I asked was my uncle, who is a major bike enthusiast. He recommended me look into the frame of all things, as it is the defining characteristics of the bike, and one of the most expensive components. Knowing this, I 
+The first person I asked was my uncle, who is a major bike enthusiast. He recommended me look into the frame of all things, as it essentially defines the purpose of the bike and compatible components. Consequently, I made the choice to get a gravel bike, which is
