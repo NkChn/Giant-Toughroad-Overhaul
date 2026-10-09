@@ -1,4 +1,4 @@
-This is the bill of materials for the bike project. As it turns out, building a custom bike turns out to be quite pricy, leaving me with a grand total of $2003.64. Though I did overshoot my budget by a lot, there are many reasons why this is actually not a bad price. The amount of money spent on tools alone is $373.08, with $1630.56 allocated towards bike parts.
+This is the bill of materials for the bike project. As it turns out, building a custom bike turns out to be quite pricy, leaving me with a grand total of $2003.64. Though I did overshoot my budget by a lot, there are many reasons why this is actually not a bad price. The amount of money spent on tools alone is $373.08, with $1630.56 allocated towards bike parts. Considering I was left with a lot of excess parts, realistically the bike cost around 1.2-1.3k. As a fun fact, I also started another bike project on a BMC frame that cost $20, so stay tuned for that! In the end, what matters is that I am very satisfied with the bike, and I've gotten a lot of experience working with them.
 
 | Item | Price |
 | :--- | :--- |
